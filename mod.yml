@@ -1,0 +1,26 @@
+title: Gooby Dolan HUD
+originalAuthor: CMDRNuffin
+description: OpenKH port of the mod with the same name by TieuLink (https://www.nexusmods.com/kingdomhearts2finalmix/mods/24)
+assets:
+# dolan
+- name: remastered\obj\P_EX020.a.us\-6.dds
+  multi: 
+  - name: remastered\obj\P_EX020_NM.a.us\-6.dds
+  - name: remastered\obj\P_EX020_XM.a.us\-6.dds
+  - name: remastered\obj\P_EX020_WI.a.us\-6.dds
+  - name: remastered\obj\P_EX020_TR.a.us\-6.dds
+  platform: pc
+  method: copy
+  source:
+  - name: dolan.dds
+# gooby
+- name: remastered\obj\P_EX030.a.us\-2.dds
+  multi: 
+  - name: remastered\obj\P_EX030_NM.a.us\-2.dds
+  - name: remastered\obj\P_EX030_XM.a.us\-2.dds
+  - name: remastered\obj\P_EX030_WI.a.us\-2.dds
+  - name: remastered\obj\P_EX030_TR.a.us\-2.dds
+  platform: pc
+  method: copy
+  source:
+  - name: gooby.dds
